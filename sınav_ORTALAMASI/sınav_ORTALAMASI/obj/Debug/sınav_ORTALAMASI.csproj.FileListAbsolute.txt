@@ -1,0 +1,10 @@
+C:\Users\sns_k\source\repos\sınav_ORTALAMASI\sınav_ORTALAMASI\bin\Debug\sınav_ORTALAMASI.exe.config
+C:\Users\sns_k\source\repos\sınav_ORTALAMASI\sınav_ORTALAMASI\bin\Debug\sınav_ORTALAMASI.exe
+C:\Users\sns_k\source\repos\sınav_ORTALAMASI\sınav_ORTALAMASI\bin\Debug\sınav_ORTALAMASI.pdb
+C:\Users\sns_k\source\repos\sınav_ORTALAMASI\sınav_ORTALAMASI\obj\Debug\sınav_ORTALAMASI.csproj.AssemblyReference.cache
+C:\Users\sns_k\source\repos\sınav_ORTALAMASI\sınav_ORTALAMASI\obj\Debug\sınav_ORTALAMASI.Form1.resources
+C:\Users\sns_k\source\repos\sınav_ORTALAMASI\sınav_ORTALAMASI\obj\Debug\sınav_ORTALAMASI.Properties.Resources.resources
+C:\Users\sns_k\source\repos\sınav_ORTALAMASI\sınav_ORTALAMASI\obj\Debug\sınav_ORTALAMASI.csproj.GenerateResource.cache
+C:\Users\sns_k\source\repos\sınav_ORTALAMASI\sınav_ORTALAMASI\obj\Debug\sınav_ORTALAMASI.csproj.CoreCompileInputs.cache
+C:\Users\sns_k\source\repos\sınav_ORTALAMASI\sınav_ORTALAMASI\obj\Debug\sınav_ORTALAMASI.exe
+C:\Users\sns_k\source\repos\sınav_ORTALAMASI\sınav_ORTALAMASI\obj\Debug\sınav_ORTALAMASI.pdb
